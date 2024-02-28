@@ -3,19 +3,19 @@
     "name": "SADHBHAVANA APP",
     "icons": [
       {
-        "src": "/sadhbhavanafavicon.png",
+        "src": "/android-chrome-192x192.png",
         "sizes": "192x192",
         "type": "image/png"
       },
       {
-        "src": "/sadhbhavanafavicon.png",
+        "src": "/android-chrome-512x512.png",
         "sizes": "512x512",
         "type": "image/png",
         "purpose": "maskable"
       }
       
     ],
-    "start_url": "/",
+    "start_url": "/android-chrome-192x192.png",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#000000"
