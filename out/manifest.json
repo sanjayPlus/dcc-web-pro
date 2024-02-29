@@ -15,7 +15,7 @@
       }
       
     ],
-    "start_url": "/android-chrome-192x192.png",
+    "start_url": "/",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#000000"
